@@ -1,0 +1,19 @@
+body {
+  font-family: "Comic Sans MS", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  margin:0;
+  color: #777777;
+  background: url("../assets/campbell-boulanger-521234-unsplash.jpg");
+}
+
+.jumbotron{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.card{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 30px;
+}
